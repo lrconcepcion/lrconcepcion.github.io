@@ -1,11 +1,11 @@
 # Site settings
 author: Luis Concepcion
-title: 
+title: Data Science Blog
 header-img: img/home-bg.png
 email: lconcepcion@hotmail.com
 copyright_name: Luis Concepcion
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Luis Concepcion's Data Science Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lrconcepcion
