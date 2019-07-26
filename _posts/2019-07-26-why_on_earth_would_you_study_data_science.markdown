@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Why On Earth Would You Study Data Science?"
-date:       2019-07-26 16:16:58 +0000
+date:       2019-07-26 12:16:59 -0400
 permalink:  why_on_earth_would_you_study_data_science
 ---
 
 
-I am a lifelong learner, so the field of Data Science provides unique and endless learning opportunities but, when it came to my friends, I could almost hear most of them yelling in my ear: "Don't do it dude!" As it relates to learning Data Science. But, you see, those who say that don't understand my life story, and how I fell in love with the field of statistics during a time where we had to do all the data crunching by hand - as in no computers or calculators.
+I am a lifelong learner, so the field of Data Science provides unique and endless learning opportunities but, when it came to my friends, I could almost hear most of them yelling in my ear: "Don't do it dude!". But, you see, those who say that don't understand my life story, and how I fell in love with the field of statistics during a time where we had to do all the data crunching by hand - as in no computers or calculators.
 
 An instructor makes all the difference in the world. I was 16 when, as part of a dual enrollment program that trained high schoolers to become agronomists, I was taught statistics and experimental design classes. Our teacher, whom we graciously nicknamed "El Tiguere" (Spanish for "the tiger", a misnomer for a person with a suave demeanor), was an incredibly flamboyant and interesting character. He dressed in mismatched bright-colored clothing and was incredibly energetic. On our first day of class he, after acknowledging to us that his classes were the toughest in the school's curriculum, promised the class that everyone would pass his classes, even if they didn't study.
 
