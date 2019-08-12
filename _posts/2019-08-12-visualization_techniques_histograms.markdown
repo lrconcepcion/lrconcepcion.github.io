@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Visualization Techniques: Histograms"
-date:       2019-08-12 17:54:44 +0000
+date:       2019-08-12 13:54:45 -0400
 permalink:  visualization_techniques_histograms
 ---
 
@@ -39,6 +39,7 @@ plt.show()
 
 ## How to Use to Answer Analytical Problems
 The following answer to an analytical problem using histograms is based on the work by Rajasekharan, Kermani, and Markovic (2018).
+
 ### Question: What is the frequency distribution of the number (population) of new immigrants from the various countries to Canada in 2013?
 
 df_can[2013].plot(kind='hist', figsize=(8, 5))
