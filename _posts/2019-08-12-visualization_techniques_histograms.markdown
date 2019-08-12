@@ -64,7 +64,8 @@ Based on the work by Biehler (2005).
 ### Weaknesses.
 •	It is extremely difficult and practically impossible to extract the exact amount of "input" in the histogram unless it is a frequency histogram.
 •	Histograms are often considered inconvenient when comparing multiple categories.
-You can view the files used for this blog by going to my Git repository.
+
+You can view the files used for this blog by going to my [Git repository](https://github.com/lrconcepcion/histogram).
 
 # References
 Biehler, R. (2005, February). Strength and weaknesses in students' project work in exploratory data analysis. In Proceedings of the Fourth Congress of the European Society for Research in Mathematics Education, Sant Feliu de Guíxols, Spain–17-21 February (pp. 580-590).
